@@ -5,11 +5,11 @@ const output = document.querySelector(".output");
 
 // install and loading
 output.innerHTML += `
-      <div class="command-line"><span class="prompt"><b>Created by © 𝙎𝙆𝙎 𝘽𝙊𝙏☮︎:</b>~$</span><input type="text" value="pip install df" disabled>
+      <div class="command-line"><span class="prompt"><b>Created by © Syam Karthik S:</b>~$</span><input type="text" value="pip install df" disabled>
       </div>
       
       <div>
-       <b id="fetching-data">Data fetching <span id="loading-value">0%</span>...</b>
+       <b id="fetching-data">sksbot <span id="loading-value">0%</span>...</b>
       </div>
             
       <div id="progress-bar" style="width: 0%; background-color: #00ff00; transition: all 0.9s ease; height: 5px; margin-bottom: 8px;"></div>
